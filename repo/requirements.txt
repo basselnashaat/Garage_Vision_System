@@ -1,0 +1,11 @@
+# Hugging Face Spaces — Gradio demo (see requirements.backend.txt for API server)
+gradio>=4.44.0
+opencv-python-headless>=4.8.0
+numpy>=1.24.0,<3
+ultralytics>=8.3.0
+python-dotenv>=1.0.0
+huggingface_hub>=0.23.0
+torch>=2.0.0
+torchvision>=0.15.0
+Pillow>=10.0.0
+pandas>=2.0.0

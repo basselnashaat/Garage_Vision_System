@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+pydantic
+python-multipart
+python-dotenv
+supabase
+opencv-python
+numpy
+ultralytics
+Pillow
+torch
+huggingface-hub
